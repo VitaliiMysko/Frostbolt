@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Frostbolt.Domain\Frostbolt.Domain.csproj" />
+    <ProjectReference Include="..\Frostbolt.Infrastructure\Frostbolt.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
